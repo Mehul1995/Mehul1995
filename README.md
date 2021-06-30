@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mehul1995
 - 👀 I’m interested in Design, Art and Technology
-- 🌱 I’m currently a UX Designer
+- 🌱 I’m currently a UX Designer at Microsoft Surface
 - 💞️ I’m looking to collaborate on the intersection of design and technology
 - 📫 How to reach me - www.mehulshah.xyz
 
